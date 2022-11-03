@@ -1,6 +1,6 @@
 # google4nerds
 
-A quick **guide** (or a **cheatsheet**) on how to make advanced google searches with search operators and narrow down your search results to find exactly what you want. ***(by examples)***
+A quick **guide** (or a **cheatsheet**) on how to make advanced google searches with search operators and narrow down your search results to find exactly what you want.
 
 
 #### Specifying a website:
