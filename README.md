@@ -2,7 +2,7 @@
 
 A quick **guide** (or a **cheatsheet**) on how to make advanced google searches with search operators and narrow down your search results to find exactly what you want. ***(by examples)***
 
-#### Specifying a website:
+### Specifying a website:
 
 ```
 calculus site:math-website.com
@@ -10,7 +10,7 @@ calculus site:math-website.com
 
 With `site:` prefix, your search will include results only for the site you specify.
 
-#### Using quotation marks for exact results:
+### Using quotation marks for exact results:
 
 ```
 'calculus'
@@ -24,7 +24,7 @@ Quotes will get you results that include exactly what you typed inside of it and
 
 This way by using *'(start_year)..(end_year)'* you're signifying that you want the search results that were published between that time range.
 
-#### AND/OR:
+### AND/OR:
 
 ```
 calculus AND trigonometry
@@ -38,7 +38,7 @@ calculus OR trigonometry
 
 `OR` operator returns searches that might be related to both the search terms or either one of them.
 
-#### Specifying a file type:
+### Specifying a file type:
 
 ```
 calculus101 filetype:pdf
