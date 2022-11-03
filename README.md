@@ -2,7 +2,7 @@
 
 A quick **guide** (or a **cheatsheet**) on how to make advanced google searches with search operators and narrow down your search results to find exactly what you want.
 
-> Math jargons are used here for examples
+> Math jargons are used here for examples.
 
 #### Specifying a website:
 
