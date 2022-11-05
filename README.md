@@ -19,7 +19,7 @@ With `site:` prefix, your search will include results only for the site you spec
 'calculus'
 ```
 
-Quotes will get you results that include exactly what you typed inside of it, in that exact order. Quotes can also be used to find results that may be within a desired time range. For example:
+Using quotes will get you results that include exactly what you typed inside of it, in that exact order. Quotes can also be used to find results that may be within a desired time range. For example:
 
 ```
 'calculus 1999..2011'
